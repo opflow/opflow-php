@@ -1,0 +1,7 @@
+{
+  "name": "devebot/opflow",
+  "description": "Devebot Opflow for PHP",
+  "require": {
+      "php-amqplib/php-amqplib": "2.6.*"
+  }
+}
